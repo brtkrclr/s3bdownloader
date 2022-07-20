@@ -12,7 +12,7 @@ client = boto3.client(
     aws_secret_access_key= 'ACCESS KEY'
 )
 
-print(Fore.YELLOW + "\nWelcome to Amazon S3 Backup Downloader.\nIn order to exit please type 0" +Style.RESET_ALL)
+print(Fore.YELLOW + "\nWelcome to Amazon S3 Backup Downloader.\nIn order to exit please type 3" +Style.RESET_ALL)
 
 while True:
 
